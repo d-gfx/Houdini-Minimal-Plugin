@@ -1,4 +1,6 @@
 # Houdini-Minimal-Plugin 雑なメモ
+## 内容
+* https://www.sidefx.com/docs/hdk/_h_d_k__extend_c_m_d.html
 
 ## ビルド方法
 * CMakeLists.txt に Houdini のバージョンを含むパスを直書きしているので適宜自分のインストールしたバージョンに変更する。
