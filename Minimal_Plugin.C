@@ -1,10 +1,12 @@
 /*
  * simple example of adding a 'date' command to Houdini
  */
+#include <iostream>
 #include <UT/UT_DSOVersion.h>
 #include <CMD/CMD_Manager.h>
 #include <CMD/CMD_Args.h>
 #include <time.h>
+
  /*
   * cmd_date()
 
